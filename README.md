@@ -1,28 +1,27 @@
-<!-- Animated Typing Intro -->
+<!-- ======================= HEADER BANNER ======================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&pause=1000&color=00FFAA&center=true&vCenter=true&width=1000&lines=Hey!+I'm+Shubham+Yadav+👋;Full+Stack+Web+Developer+🚀;MERN+Stack+Developer+💻;Java+%2B+DSA+Learner+📚;Building+Real+World+Projects+🔥" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,100:0066ff&height=250&section=header&text=Shubham%20Yadav&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Web%20Developer%20%7C%20MERN%20Stack%20Developer&descAlignY=55&descSize=20" />
 </p>
 
-<!-- Profile Views -->
+<!-- ======================= TYPING ANIMATION ======================= -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&pause=1000&color=00FFAA&center=true&vCenter=true&width=1000&lines=Hey!+I'm+Shubham+Yadav+👋;Full+Stack+Web+Developer+🚀;MERN+Stack+Developer+💻;Java+%2B+DSA+Learner+📚;Building+Real+World+Projects+🔥" />
+</p>
+
+<!-- ======================= BADGES ======================= -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Coding%20Mode%20ON-00ff99?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-MERN%20%2B%20DSA-blue?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-purple?style=for-the-badge&logo=node.js&logoColor=white" />
+</p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shubham12112004&label=Profile%20Views&color=00ff99&style=for-the-badge" />
 </p>
 
-<!-- Divider -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750147-6f67b4a5-71e0-4d9d-9d85-0f6f7d11eaf2.gif" width="100%" />
-</p>
-
 ---
 
-<h1 align="center">🚀 Welcome to My GitHub Profile</h1>
-
-<p align="center">
-  <b>Passionate about Full Stack Development, MERN Stack Projects & Problem Solving 💻🔥</b>
-</p>
-
----
-
+<!-- ======================= ABOUT ME ======================= -->
 <h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
@@ -34,74 +33,26 @@
 
 ---
 
-<h2 align="center">🚀 Tech Stack & Tools</h2>
+<!-- ======================= TERMINAL STYLE ======================= -->
+<h2 align="center">🖥️ Developer Terminal</h2>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,java,git,github,vscode&perline=6" />
-</p>
+```bash
+┌──(shubham㉿github)-[~/profile]
+└─$ whoami
+Shubham Yadav
 
----
+┌──(shubham㉿github)-[~/profile]
+└─$ cat role.txt
+Full Stack Web Developer (MERN Stack)
 
-<h2 align="center">📊 GitHub Analytics</h2>
+┌──(shubham㉿github)-[~/profile]
+└─$ cat learning.txt
+Java + DSA
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shubham12112004&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=shubham12112004&theme=tokyonight&hide_border=true&border_radius=15" />
-</p>
+┌──(shubham㉿github)-[~/profile]
+└─$ cat project.txt
+Help Desk System (MERN)
 
----
-
-<h2 align="center">🌍 Most Used Languages</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shubham12112004&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-<h2 align="center">📈 Contribution Activity Graph</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubham12112004&theme=tokyo-night&hide_border=true&radius=15" />
-</p>
-
----
-
-<h2 align="center">🏆 GitHub Achievements</h2>
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubham12112004&theme=tokyonight" />
-</p>
-
----
-
-<h2 align="center">📌 My Coding Quote</h2>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
----
-
-<h2 align="center">📫 Connect With Me</h2>
-
-<p align="center">
-  <a href="https://linkedin.com/in/shubhamyadav20" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="mailto:raoshubham192@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-  <a href="https://github.com/shubham12112004" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-</p>
-
----
-
-<h3 align="center">🔥 "Consistency is the key to success." 🔥</h3>
-
-<!-- Footer Wave -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFAA,100:0000FF&height=120&section=footer"/>
-</p>
+┌──(shubham㉿github)-[~/profile]
+└─$ echo "Consistency is the key to success 🚀"
+Consistency is the key to success 🚀🔥
