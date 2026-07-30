@@ -1,58 +1,65 @@
-<!-- ======================= HEADER BANNER ======================= -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,100:0066ff&height=250&section=header&text=Shubham%20Yadav&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Web%20Developer%20%7C%20MERN%20Stack%20Developer&descAlignY=55&descSize=20" />
-</p>
+<div align="center">
 
-<!-- ======================= TYPING ANIMATION ======================= -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&pause=1000&color=00FFAA&center=true&vCenter=true&width=1000&lines=Hey!+I'm+Shubham+Yadav+👋;Full+Stack+Web+Developer+🚀;MERN+Stack+Developer+💻;Java+%2B+DSA+Learner+📚;Building+Real+World+Projects+🔥" />
-</p>
+<!-- Retro Arcade Header -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1e1e2e&height=180&text=SHUBHAM%20//%20PLAYER%201&fontSize=40&fontColor=89b4fa&stroke=000000&strokeWidth=1" width="100%"/>
 
-<!-- ======================= BADGES ======================= -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Coding%20Mode%20ON-00ff99?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-MERN%20%2B%20DSA-blue?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-purple?style=for-the-badge&logo=node.js&logoColor=white" />
-</p>
+`Full Stack Web Developer` • `MERN Stack Developer` • `Open Source Explorer`
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shubham12112004&label=Profile%20Views&color=00ff99&style=for-the-badge" />
-</p>
+<br/>
+
+<!-- Dynamic Arcade Typing Subtitle -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=2500&pause=1000&color=F75C7E&center=true&width=550&lines=PRESS+START+TO+BUILD...;PRESS+START+TO+OPTIMIZE...;PRESS+START+TO+DEPLOY...;" alt="Typing SVG" />
+</a>
+
+</div>
 
 ---
 
-<!-- ======================= ABOUT ME ======================= -->
-<h2 align="center">👨‍💻 About Me</h2>
+### 🕹️ PLAYER SPECS & INVENTORY
 
-<p align="center">
-🔥 Full Stack Web Developer (MERN Stack) <br>
-📌 Currently improving Java + DSA skills <br>
-💻 Building real-world projects like Help Desk System <br>
-🎯 Goal: Become a Software Engineer & crack top product companies <br>
-</p>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>👤 Character Overview</h4>
+      <ul>
+        <li><b>Class:</b> Full Stack & MERN Developer</li>
+        <li><b>Current Quest:</b> Building modern web apps</li>
+        <li><b>Main Stack:</b> MongoDB • Express • React • Node.js</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>⚡ Skill Levels (XP)</h4>
+      <code>Frontend (React/Next)</code> <img src="https://img.shields.io/badge/LVL_85-89b4fa?style=flat-square" /><br/>
+      <code>Backend (Node/Express)</code> <img src="https://img.shields.io/badge/LVL_80-a6e3a1?style=flat-square" /><br/>
+      <code>Databases (Mongo/SQL)</code> <img src="https://img.shields.io/badge/LVL_75-f9e2af?style=flat-square" /><br/>
+      <code>Tools & Git          </code> <img src="https://img.shields.io/badge/LVL_70-f38ba8?style=flat-square" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-<!-- ======================= TERMINAL STYLE ======================= -->
-<h2 align="center">🖥️ Developer Terminal</h2>
+### 🛠️ ARSENAL & TECH STACK
 
-```bash
-┌──(shubham㉿github)-[~/profile]
-└─$ whoami
-Shubham Yadav
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postman,git,github,vscode&theme=dark&perline=6" />
+</div>
 
-┌──(shubham㉿github)-[~/profile]
-└─$ cat role.txt
-Full Stack Web Developer (MERN Stack)
+---
 
-┌──(shubham㉿github)-[~/profile]
-└─$ cat learning.txt
-Java + DSA
+### 🐍 MAINFRAME ACTIVITY STREAM (SNAKE GAME)
 
-┌──(shubham㉿github)-[~/profile]
-└─$ cat project.txt
-Help Desk System (MERN)
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shubham12112004/shubham12112004/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shubham12112004/shubham12112004/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shubham12112004/shubham12112004/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</div>
 
-┌──(shubham㉿github)-[~/profile]
-└─$ echo "Consistency is the key to success 🚀"
-Consistency is the key to success 🚀🔥
+---
+
+<div align="center">
+  <sub>🎮 GAME OVER? NO, JUST GETTING STARTED.</sub>
+</div>
