@@ -140,9 +140,6 @@ I enjoy designing and building scalable web applications, solving Data Structure
 # 📈 GitHub Analytics
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shubham12112004&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham12112004&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
