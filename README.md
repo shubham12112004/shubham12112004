@@ -1,285 +1,143 @@
 <div align="center">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Shubham Yadav
+# 👋 Hi, I'm Shubham Yadav
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Java+Developer;Problem+Solver;Building+Scalable+Applications;Learning+Never+Stops" alt="Typing SVG" />
+### 💻 Full Stack Developer | C++ Programmer | Problem Solver
 
-### **"Code. Learn. Improve. Repeat."**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Building+Scalable+Web+Applications;C%2B%2B+%7C+Java+%7C+React+%7C+Node.js;Backend+Engineering+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG"/>
 
-<img src="https://komarev.com/ghpvc/?username=shubham12112004&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+<br>
+
+<a href="https://portfolio-theta-three-67.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/shubhamyadav20/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:raoshubham192@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
 
 <a href="https://github.com/shubham12112004">
-<img src="https://img.shields.io/github/followers/shubham12112004?label=Followers&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://github.com/shubham12112004?tab=repositories">
-<img src="https://img.shields.io/badge/Repositories-View-success?style=for-the-badge"/>
-</a>
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=shubham12112004&label=Profile+Views&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/shubham12112004?style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 🖥 SHUBHAM DEV OS
-
-```text
-┌───────────────────────────────────────────────────────────────┐
-│                     SHUBHAM DEV OS v1.0                       │
-├───────────────────────────────────────────────────────────────┤
-│ STATUS          ● ONLINE                                     │
-│ ROLE            Full Stack Developer                         │
-│ UNIVERSITY      Lovely Professional University               │
-│ TARGET          Software Development Engineer                │
-│ CURRENT BUILD   Community Assistance Platform                │
-│ CURRENT STACK   Java • React • Node • MongoDB               │
-│ CURRENT GOAL    Master Spring Boot & System Design           │
-└───────────────────────────────────────────────────────────────┘
-```
-
----
-
-# 💻 Terminal
-
-```bash
-PS C:\Recruiter>
-
-whoami
-
-Shubham Yadav
-
-role
-
-Full Stack Developer
-
-skills
-
-Java
-React
-Node.js
-MongoDB
-SQL
-JavaScript
-
-goal
-
-Software Development Engineer
-
-status
-
-Always Building 🚀
-```
-
----
-
 # 🚀 About Me
 
-```yaml
-Name:
-    Shubham Yadav
+Hi! I'm **Shubham Yadav**, a B.Tech Computer Science student specializing in **Full Stack Development** at **Lovely Professional University**.
 
-Education:
-    B.Tech CSE (Full Stack)
+I enjoy designing and building scalable web applications, solving Data Structures & Algorithms problems, and continuously improving my backend development skills.
 
-Location:
-    India
+### 🎯 Current Focus
 
-Passionate About:
-    Backend Development
-    Full Stack Development
-    Problem Solving
-
-Currently Learning:
-    Spring Boot
-    Docker
-    AWS
-    System Design
-
-Looking For:
-    Software Development Engineer Roles
-```
+- 💻 Solving DSA problems using **C++**
+- 🌐 Building Full Stack Applications
+- ☕ Learning **Java** & **Spring Boot**
+- 🐳 Exploring **Docker**
+- ☁️ Learning **AWS**
+- 🧠 Improving **System Design**
 
 ---
 
-# 🎯 Mission Control
+# 💼 Tech Stack
 
-| Goal | Progress |
-|------|----------|
-| Learn Java | ██████████ |
-| Master React | ████████░░ |
-| Node.js | ███████░░░ |
-| Spring Boot | ███░░░░░░ |
-| Docker | ██░░░░░░░ |
-| AWS | █░░░░░░░░ |
+## 👨‍💻 Languages
 
----
+<p align="left">
 
-# 📌 Current Objectives
+<img src="https://skillicons.dev/icons?i=cpp" />
 
-- 🚀 Build Production Ready Projects
-- 📚 Master Data Structures & Algorithms
-- ⚙ Learn Scalable Backend Architecture
-- ☁ Learn Cloud Deployment
-- 🎯 Crack SDE Interviews
+<img src="https://skillicons.dev/icons?i=java" />
 
----
+<img src="https://skillicons.dev/icons?i=js" />
 
-# ⚡ Developer Dashboard
+<img src="https://skillicons.dev/icons?i=html" />
 
-```text
-Java              ██████████
+<img src="https://skillicons.dev/icons?i=css" />
 
-React             █████████
-
-Node.js           ███████
-
-MongoDB           ███████
-
-Spring Boot       ███
-
-AWS               ██
-```
-
----
-
-# 🧰 Tech Stack
-
-## Languages
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=java"/>
-
-<img src="https://skillicons.dev/icons?i=cpp"/>
-
-<img src="https://skillicons.dev/icons?i=js"/>
-
-<img src="https://skillicons.dev/icons?i=html"/>
-
-<img src="https://skillicons.dev/icons?i=css"/>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
+<img src="https://skillicons.dev/icons?i=mysql" />
 
 </p>
 
 ---
 
-## Frontend
+## 🎨 Frontend
 
-<p>
+<p align="left">
 
-<img src="https://skillicons.dev/icons?i=react"/>
+<img src="https://skillicons.dev/icons?i=react" />
 
-<img src="https://skillicons.dev/icons?i=tailwind"/>
+<img src="https://skillicons.dev/icons?i=tailwind" />
 
-<img src="https://skillicons.dev/icons?i=bootstrap"/>
+<img src="https://skillicons.dev/icons?i=bootstrap" />
 
-<img src="https://skillicons.dev/icons?i=vite"/>
-
-</p>
-
----
-
-## Backend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=nodejs"/>
-
-<img src="https://skillicons.dev/icons?i=express"/>
-
-<img src="https://skillicons.dev/icons?i=laravel"/>
+<img src="https://skillicons.dev/icons?i=vite" />
 
 </p>
 
 ---
 
-## Database
+## ⚙️ Backend
 
-<p>
+<p align="left">
 
-<img src="https://skillicons.dev/icons?i=mongodb"/>
+<img src="https://skillicons.dev/icons?i=nodejs" />
 
-<img src="https://skillicons.dev/icons?i=postgres"/>
+<img src="https://skillicons.dev/icons?i=express" />
 
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
-</p>
-
----
-
-## Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-<img src="https://skillicons.dev/icons?i=vscode"/>
-
-<img src="https://skillicons.dev/icons?i=docker"/>
-
-<img src="https://skillicons.dev/icons?i=postman"/>
-
-<img src="https://skillicons.dev/icons?i=figma"/>
+<img src="https://skillicons.dev/icons?i=spring" />
 
 </p>
 
 ---
 
-# 📈 Learning Timeline
+## 🗄️ Database
 
-```text
-2023
+<p align="left">
 
-Started Programming
+<img src="https://skillicons.dev/icons?i=mongodb" />
 
-↓
+<img src="https://skillicons.dev/icons?i=mysql" />
 
-HTML
+<img src="https://skillicons.dev/icons?i=postgres" />
 
-↓
-
-CSS
-
-↓
-
-JavaScript
-
-↓
-
-React
-
-↓
-
-Node.js
-
-↓
-
-MongoDB
-
-↓
-
-Java
-
-↓
-
-Full Stack Development
-
-↓
-
-Preparing for Software Engineering Roles
-```
+</p>
 
 ---
 
-# 💡 Philosophy
+## 🛠️ Tools
 
-> "Technology changes every day. Curiosity and consistency are the only skills that never become outdated."
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=git" />
+
+<img src="https://skillicons.dev/icons?i=github" />
+
+<img src="https://skillicons.dev/icons?i=vscode" />
+
+<img src="https://skillicons.dev/icons?i=docker" />
+
+<img src="https://skillicons.dev/icons?i=postman" />
+
+<img src="https://skillicons.dev/icons?i=figma" />
+
+</p>
 
 ---
-# 📊 Developer Analytics
 
+# 📈 GitHub Analytics
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shubham12112004&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
@@ -288,29 +146,37 @@ Preparing for Software Engineering Roles
 
 </div>
 
+<br>
+
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=shubham12112004&theme=tokyonight&hide_border=true"/>
 
 </div>
 
----
-
-# 📈 Contribution Graph
+<br>
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubham12112004&theme=tokyo-night&hide_border=true"/>
 
 </div>
-
 ---
 
-# 🏆 GitHub Achievements
+# 🏅 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=shubham12112004&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=shubham12112004&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+
+</div>
+---
+
+# 📊 GitHub Profile Summary
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubham12112004&theme=tokyonight"/>
 
 </div>
 
@@ -327,29 +193,23 @@ Preparing for Software Engineering Roles
 <h3 align="center">🌾 AgriPool</h3>
 
 <p align="center">
-
-Resource sharing platform connecting farmers for efficient equipment utilization.
-
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 </p>
 
 <p align="center">
-
-React • Laravel • MongoDB • Maps • Razorpay
-
+A resource-sharing platform that helps farmers rent and share agricultural equipment efficiently.
 </p>
 
 <p align="center">
 
 <a href="https://github.com/shubham12112004/AgriPool">
-
-<img src="https://img.shields.io/badge/Source_Code-black?style=for-the-badge&logo=github">
-
+<img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://agripool-xfwy.onrender.com/">
-
-<img src="https://img.shields.io/badge/Live_Demo-success?style=for-the-badge">
-
+<img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge"/>
 </a>
 
 </p>
@@ -361,29 +221,23 @@ React • Laravel • MongoDB • Maps • Razorpay
 <h3 align="center">🏥 MedDesk</h3>
 
 <p align="center">
-
-Modern help desk platform with authentication and ticket management.
-
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 </p>
 
 <p align="center">
-
-React • Node.js • MongoDB • Tailwind CSS
-
+A help desk platform featuring authentication, ticket management, and an intuitive dashboard.
 </p>
 
 <p align="center">
 
 <a href="https://github.com/shubham12112004/Help-Desk-System">
-
-<img src="https://img.shields.io/badge/Source_Code-black?style=for-the-badge&logo=github">
-
+<img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://help-desk-system-rho.vercel.app/">
-
-<img src="https://img.shields.io/badge/Live_Demo-success?style=for-the-badge">
-
+<img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge"/>
 </a>
 
 </p>
@@ -399,14 +253,20 @@ React • Node.js • MongoDB • Tailwind CSS
 <h3 align="center">🚑 Community Assistance Platform</h3>
 
 <p align="center">
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+</p>
 
-Emergency response platform connecting users with nearby volunteers.
-
+<p align="center">
+An emergency response platform connecting users with nearby volunteers using real-time location and interactive maps.
 </p>
 
 <p align="center">
 
-React • Node.js • MongoDB • Leaflet
+<a href="https://github.com/shubham12112004">
+<img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </p>
 
@@ -414,17 +274,27 @@ React • Node.js • MongoDB • Leaflet
 
 <td width="50%">
 
-<h3 align="center">🎬 Cinematch</h3>
+<h3 align="center">🎬 CineMatch</h3>
 
 <p align="center">
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/TMDB-01D277?style=flat-square"/>
+</p>
 
-Movie discovery platform using TMDB API with authentication.
-
+<p align="center">
+A movie discovery platform powered by the TMDB API with authentication, search, and a modern responsive interface.
 </p>
 
 <p align="center">
 
-React • Firebase • TMDB API
+<a href="https://github.com/shubham12112004/CineMatch">
+<img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://cine-match-coral.vercel.app/">
+<img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge"/>
+</a>
 
 </p>
 
@@ -436,210 +306,157 @@ React • Firebase • TMDB API
 
 ---
 
-# 📜 Certifications
+# 🌱 Currently Building
+
+- ☕ Java Backend Development
+- 🌿 Spring Boot REST APIs
+- 🐳 Docker & Containerization
+- ☁️ AWS Cloud Fundamentals
+- 🧠 System Design
+- 📚 Advanced Data Structures & Algorithms
+
+# 🏆 Certifications
+
+| Certification | Organization |
+|---------------|--------------|
+| 🥇 Oracle Cloud Infrastructure 2025 Generative AI Professional | Oracle |
+| 🥇 Oracle Cloud Infrastructure Foundations | Oracle |
+| 🥇 Computational Theory | Infosys Springboard |
+| 🥇 ChatGPT Prompt Engineering | Infosys Springboard |
+| 🥇 Master Generative AI Tools | Infosys Springboard |
+
+---
+
+# 🧩 Coding Profiles
 
 <div align="center">
 
-| Certification | Status |
-|---------------|--------|
-| Oracle Generative AI Professional | ✅ |
-| Oracle Cloud Infrastructure | ✅ |
-| Infosys Springboard - Computational Theory | ✅ |
-| Infosys Prompt Engineering | ✅ |
-| Master Generative AI Tools | ✅ |
+<a href="https://leetcode.com/u/shubhamm2004/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 
-</div>
-
----
-
-# 🎯 2026 Roadmap
-
-```text
-██████████████████████████████████████
-
-✔ Java
-
-✔ HTML
-
-✔ CSS
-
-✔ JavaScript
-
-✔ React
-
-✔ Node.js
-
-✔ MongoDB
-
-⬜ Spring Boot
-
-⬜ Docker
-
-⬜ AWS
-
-⬜ Kubernetes
-
-⬜ System Design
-
-⬜ SDE Placement
-
-██████████████████████████████████████
-```
-
----
-
-# 📚 Currently Learning
-
-```text
-📖 Spring Boot
-
-⚙ Docker
-
-☁ AWS
-
-🧠 System Design
-
-📈 Advanced DSA
-
-💻 Backend Scalability
-```
-
----
-
-# 💼 Open Source Goals
-
-- 🌟 Contribute to open-source projects
-- 🚀 Build scalable backend systems
-- 📚 Share knowledge through projects
-- 💡 Solve real-world problems
-- 🤝 Collaborate with developers worldwide
-
----
----
-
-# 🌐 Let's Connect
-
-<div align="center">
+<a href="https://www.geeksforgeeks.org/profile/raoshubj41s">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
 
 <a href="https://github.com/shubham12112004">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
+</div>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
+---
 
-<a href="YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge"/>
+# 📌 Achievements
+
+- 💻 Passionate about **Full Stack Development** and **Backend Engineering**
+- 🧩 Regularly solve **Data Structures & Algorithms** problems using **C++**
+- 🚀 Built multiple full-stack applications with React, Node.js, MongoDB, and Java
+- ☁️ Currently learning **Spring Boot**, **Docker**, **AWS**, and **System Design**
+- 🌱 Continuously improving through hands-on projects and coding practice
+
+---
+
+# 📄 Resume
+
+<div align="center">
+
+<a href="https://drive.google.com/file/d/1g0kiET5ZDh8CClOMkDZL65tvN0j9awHr/view?usp=sharing">
+<img src="https://img.shields.io/badge/Download_Resume-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a>
 
 </div>
 
 ---
+# 🚀 What I Enjoy Building
 
-# 📊 Developer Metrics
+<table>
 
-```text
-Experience
+<tr>
 
-██████████████████████░░░ 85%
+<td align="center">
 
-Backend
+⚡ Backend APIs
 
-██████████████████░░░░░░░ 70%
+</td>
 
-Frontend
+<td align="center">
 
-████████████████████░░░░░ 80%
+🌐 Full Stack Apps
 
-Problem Solving
+</td>
 
-████████████████░░░░░░░░░ 65%
+<td align="center">
 
-System Design
+📊 Database Design
 
-████████░░░░░░░░░░░░░░░░░ 35%
+</td>
 
-Cloud
+<td align="center">
 
-█████░░░░░░░░░░░░░░░░░░░░ 20%
+🧩 DSA in C++
+
+</td>
+
+</tr>
+
+</table>
+
+# 📚 Currently Exploring
+
+- 📖 Spring Boot in Action
+- ☁️ AWS Fundamentals
+- 🐳 Docker
+- 🧠 System Design
+- ⚡ Backend Scalability
+# 🎯 2026 Goals
+
+- ✅ 500+ DSA Problems
+- 🚀 Crack SDE Placement
+- 🌱 Contribute to Open Source
+- ☁️ Learn AWS
+- 🐳 Master Docker
+- ⚡ Build Production-Ready Applications
+# ☕ Beyond Coding
+
+- 🎵 Music keeps me focused while coding.
+- 🧩 I enjoy solving algorithmic challenges.
+- 🌱 I love learning new technologies.
+- 💡 I believe every project teaches something new.
+# 📈 Profile Summary
+
+```yaml
+Developer: Shubham Yadav
+Role: Full Stack Developer
+Primary Language: C++
+Backend: Java • Node.js
+Frontend: React
+Database: MongoDB • MySQL
+Current Focus: Spring Boot • Docker • AWS
+Goal: Software Development Engineer
 ```
 
----
+# 🌐 Let's Connect
 
-# ⚡ Daily Workflow
+<div align="center">
 
-```text
-☕ Coffee
+<a href="https://portfolio-theta-three-67.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
-↓
+<a href="https://www.linkedin.com/in/shubhamyadav20/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
-📝 Plan
+<a href="mailto:raoshubham192@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
 
-↓
+<a href="https://github.com/shubham12112004">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
-💻 Code
-
-↓
-
-🐛 Debug
-
-↓
-
-🚀 Deploy
-
-↓
-
-📚 Learn
-
-↓
-
-😴 Sleep
-
-↓
-
-Repeat
-```
-
----
-
-# 🧠 Random Developer Wisdom
-
-> "First, solve the problem. Then, write the code."
-
-— John Johnson
-
----
-
-# 📅 Current Mission
-
-```text
-Mission ID : DEV-2026
-
-Objective
-
-✔ Crack SDE Placement
-
-Tasks
-
-□ Master Spring Boot
-
-□ Learn Docker
-
-□ AWS Basics
-
-□ Complete 500 DSA Problems
-
-□ Improve System Design
-
-Status
-
-██████████████░░░░░░ 70%
-```
+</div>
 
 ---
 
@@ -647,77 +464,19 @@ Status
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/shubham12112004/shubham12112004/output/github-contribution-grid-snake-dark.svg)
+![GitHub Snake](https://raw.githubusercontent.com/shubham12112004/shubham12112004/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
 ---
 
-# 💻 Terminal
+# 🌟 Daily Developer Quote
 
-```bash
-PS C:\Recruiter>
+<div align="center">
 
-help
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
-Available Commands
-
-whoami
-
-projects
-
-skills
-
-contact
-
-resume
-
-github
-
-exit
-
-PS C:\Recruiter>
-```
-
----
-
-# 🚀 Fun Facts
-
-- 💻 I enjoy building full-stack applications.
-- 🧩 Every bug is a new lesson.
-- 📚 Learning never stops.
-- 🌱 Currently exploring scalable backend systems.
-- ☕ Coffee + Music + Coding = Productivity.
-
----
-
-# 📌 Profile Summary
-
-```yaml
-Developer:
-  Shubham Yadav
-
-Role:
-  Full Stack Developer
-
-Primary Language:
-  Java
-
-Frontend:
-  React
-
-Backend:
-  Node.js
-
-Database:
-  MongoDB
-
-Target:
-  Software Development Engineer
-
-Motto:
-  Build • Learn • Improve
-```
+</div>
 
 ---
 
@@ -725,10 +484,9 @@ Motto:
 
 ## ⭐ Thanks for Visiting!
 
+If you like my work, consider ⭐ starring my repositories and connecting with me.
+
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00F7FF,100:6C63FF&section=footer"/>
 
-### "The best way to predict the future is to build it."
-
-⭐ If you like my work, consider giving a star to my repositories!
-
 </div>
+
