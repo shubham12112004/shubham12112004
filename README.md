@@ -164,15 +164,6 @@ I enjoy designing and building scalable web applications, solving Data Structure
 
 ---
 
-# 🏅 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=shubham12112004&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
-
-</div>
-
----
-
 # 📊 GitHub Profile Summary
 
 <div align="center">
