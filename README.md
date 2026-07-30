@@ -24,7 +24,7 @@
       <h4>👤 Character Overview</h4>
       <ul>
         <li><b>Class:</b> Full Stack & MERN Developer</li>
-        <li><b>Current Quest:</b> Building modern web apps</li>
+        <li><b>Current Quest:</b> Building modern, scalable web apps</li>
         <li><b>Main Stack:</b> MongoDB • Express • React • Node.js</li>
       </ul>
     </td>
@@ -43,8 +43,37 @@
 ### 🛠️ ARSENAL & TECH STACK
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postman,git,github,vscode&theme=dark&perline=6" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgres,postman,docker,git,github,vscode,html,css,tailwind&theme=dark&perline=8" />
 </div>
+
+---
+
+### 🏆 CERTIFICATIONS & ACHIEVEMENTS
+
+| Icon | Certificate / Achievement | Issuer | Status / Link |
+| :---: | :--- | :--- | :---: |
+| 📜 | **Full Stack Web Development** | Coursera / Udemy | `VERIFIED` |
+| 🗄️ | **SQL & Database Management** | SQLBolt / HackerRank | `VERIFIED` |
+| ⚡ | **MERN Stack Masterclass** | FreeCodeCamp | `COMPLETED` |
+
+---
+
+### 🚀 FEATURED PROJECTS & GAMES
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🎮 Project / Game 1</h4>
+      <p>Short description of your web app or game project. Built with React and Node.js.</p>
+      <a href="https://github.com/shubham12112004/your-repo-name"><b>👉 View Repository</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>💻 Project / Game 2</h4>
+      <p>Short description of another major project or interactive application.</p>
+      <a href="https://github.com/shubham12112004/your-repo-name"><b>👉 View Repository</b></a>
+    </td>
+  </tr>
+</table>
 
 ---
 
