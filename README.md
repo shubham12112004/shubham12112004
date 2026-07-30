@@ -161,15 +161,16 @@ I enjoy designing and building scalable web applications, solving Data Structure
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubham12112004&theme=tokyo-night&hide_border=true"/>
 
 </div>
+
 ---
 
 # 🏅 GitHub Trophies
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=shubham12112004&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=shubham12112004&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
 
 </div>
+
 ---
 
 # 📊 GitHub Profile Summary
